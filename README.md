@@ -6,4 +6,5 @@
 - New theme engine (hotswappable themes)
 - External version of calcboy
 - Discord Rich Presence in simulator
+- A GeoGebra lite for NumWorks
 - USB MTP
