@@ -8,3 +8,4 @@
 - Discord Rich Presence in simulator
 - A GeoGebra lite for NumWorks
 - USB MTP
+- Fix the N0110 CI for LaTeX port
